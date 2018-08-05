@@ -1,0 +1,18 @@
+.highcharts-yaxis-grid .highcharts-grid-line {
+	display: none;
+}
+
+#container5 {
+    max-width: 800px;
+    height: 115px;
+    margin: 1em auto;
+}
+#container6, #container7 {
+    max-width: 800px;
+    height: 85px;
+    margin: 1em auto;
+}
+.hc-cat-title {
+  font-size: 13px;
+  font-weight: bold;
+}
